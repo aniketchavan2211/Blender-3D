@@ -7,16 +7,25 @@ Blender 3D
 
 Basically Creating Basic to High computer generated graphics, VFX, 3D model for printing ,real time motion capturing used in films or high end games,also used in VR/AR 
 
-modeling 
-
-3d shapes 
-
-
 ## Installation
 
 On Windows :
 
+Download Windows Installer, Run the installer, Install it & After installation Open it.
+
+OR
+
+Use Portable One (No installation need), Extract Zip and Directly RUN `blender-3d-launcher.exe`.
+
+It will Open Blender 3D.
+
 On Linux :
+
+Download Linux tarball file extract and run directly 
+
+OR
+
+Install from Snap Package manager
 
 On MacOS :
 
