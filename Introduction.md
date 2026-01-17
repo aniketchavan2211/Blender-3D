@@ -1,6 +1,7 @@
 
 ## Introduction : 
-https://github.com/aniketchavan2211/Blender-3D/blob/2d919c4328ead0c1d8757ca1a6801e68c9b4075f/blender-3d.jpg
+
+![blender-3d.jpg]
 
 Blender 3D 
 
