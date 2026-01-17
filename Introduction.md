@@ -1,7 +1,7 @@
 
 ## Introduction : 
 
-![blender-3d.jpg]
+![[blender-3d.jpg]]
 
 Blender 3D 
 
