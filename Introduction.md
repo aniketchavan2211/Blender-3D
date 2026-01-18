@@ -1,7 +1,7 @@
 
 ## Introduction : 
 
-![[blender-3d.jpg]]
+![Blender 3D Icon](assets/images/blender-3d.jpg )
 
 Blender 3D 
 
