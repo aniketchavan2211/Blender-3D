@@ -1,7 +1,7 @@
 
 ## Introduction :
 
-<img src="assets/images/blender-3d.jpg" height="200" width="300">
+<img src="assets/images/blender-3d.jpg" height="200" width="200">
 ![Blender 3D Icon](assets/images/blender-3d.jpg )
 
 Blender 3D
