@@ -1,9 +1,9 @@
 
-## Introduction : 
+## Introduction :
 
 ![Blender 3D Icon](assets/images/blender-3d.jpg )
 
-Blender 3D 
+Blender 3D
 
 **Blender** 3D is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software "Free and open-source software") [3D computer graphics](https://en.wikipedia.org/wiki/3D_computer_graphics "3D computer graphics") software tool set that runs on [Windows](https://en.wikipedia.org/wiki/Windows "Windows"), [macOS](https://en.wikipedia.org/wiki/MacOS "MacOS"), [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), [BSD](https://en.wikipedia.org/wiki/BSD "BSD"), [Haiku](https://en.wikipedia.org/wiki/Haiku_\(operating_system\) "Haiku (operating system)"), and [IRIX](https://en.wikipedia.org/wiki/IRIX "IRIX"). It is used for creating [animated films](https://en.wikipedia.org/wiki/Animated_films "Animated films"), visual effects, art, [3D-printed](https://en.wikipedia.org/wiki/3D_printing "3D printing") models, [motion graphics](https://en.wikipedia.org/wiki/Motion_graphics "Motion graphics"), interactive 3D applications, and [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality "Virtual reality"). It is also used in creating models for video games.
 
@@ -76,10 +76,6 @@ update-desktop-database ~/.local/share/applications/ 2>/dev/null
 
 then use `super` key and search for `blender`  icon may appear in applications menu.
 
-OR
-
-Install from Snap Package manager
-
 ## Blender 3D
 
 Launch the Blender 3D,  in center a small windows pop-up, every time you open application 
@@ -94,13 +90,14 @@ click on out of the splash screen it will disappear,.
 Find `Edit`  on top bar, click on `Preferences` or use Shortcuts ***CTRL+,***
 
 ![Resolution Scale](assets/images/Resolution-scale.png)
+
 In preferences, adjust Resolution Scale as per your requirement (1.30)
 settings will be set as AutoSaved by default, so close the windows, settings apply quickly.
 
 
 ![](assets/images/Numpad.png)
 
-Turn ON `Emulate Numpad`. 
+Turn ON `Emulate Numpad`.
 Main Numbers keys acts as Numpad keys (usefull for laptops).
 
 ![](assets/images/3-button-mouse.png)
@@ -113,6 +110,6 @@ in absence of scroll wheel on mouse, use `Alt` key  OR `Super` (as per settings)
 
 `CTRL+,`:  Open Preferences Tab
 
-## Reference 
+## Reference
 
-![Blender  Basics : CG Cookies Youtube Channel](https://www.youtube.com/watch?v=6FaLHFJ2kKI)
+[Blender  Basics : CG Cookies Youtube Channel](https://www.youtube.com/watch?v=6FaLHFJ2kKI)
